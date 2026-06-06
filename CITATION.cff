@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this work using the metadata below."
+title: "全量元计算算子理论数学计算规则 (Full Quantum Meta-Operator Theory)"
+version: 2.4
+date-released: 2026
+authors:
+  - family-names: "邵"
+    given-names: "昆"
+    name-particle: ""
+    name-suffix: ""
+    orcid: "https://orcid.org/0009-0006-0673-5448"
+    email: "1947910734@qq.com"
+identifiers:
+  - type: "orcid"
+    value: "0009-0006-0673-5448"
+keywords:
+  - "Meta-Operator"
+  - "Quantum Computing"
+  - "Self-Organization"
+  - "ABCD Framework"
+  - "Normal Distribution Basis"
+  - "Thread Pair Coupling"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/your-username/your-repo-name"
+abstract: "本预印版定义全量元计算算子的完整结构、演化规则、算子间交互机制以及系统自组织行为。系统基于ABCD四分量体系（大循环流向σ、确定-不确定结构体β&R、层-填充结构体N_int&f、维度规则库D），通过一级线子对（算子间耦合）和二级线子对（算子对与层之间耦合）实现层级自组织与动态演化。"
