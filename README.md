@@ -3,7 +3,8 @@
 > **Version:** v2.4  
 > **Author:** Shao Kun (邵昆)  
 > **ORCID:** [0009-0006-0673-5448](https://orcid.org/0009-0006-0673-5448)  
-> **Contact:** 1947910734@qq.com  
+> **Contact:** 1947910734@qq.com
+> DOI：https://doi.org/10.5281/zenodo.20571286
 
 ---
 
