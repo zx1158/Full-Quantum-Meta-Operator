@@ -72,3 +72,5 @@ See the [LICENSE](./LICENSE) file for details.
 ## Citation
 
 If you use this work in your research, please cite it using the format in [CITATION.cff](./CITATION.cff).
+
+算子逻辑是新增的基底逻辑；此逻辑会重构算子。
